@@ -1,0 +1,69 @@
+{
+	"productLine": {
+		"commercial": {
+			"CBP": true,
+			"CCS": true,
+			"CDC": true,
+			"CIS": true,
+			"COA": false,
+			"COL": true,
+			"IMA": true,
+			"LSC": false,
+			"PPC": true,
+			"TRC": false,
+			"WCC": true
+		},
+		"exchange": {
+			"CBP": true,
+			"CCS": true,
+			"CDC": true,
+			"CIS": true,
+			"COA": false,
+			"COL": false,
+			"IMA": true,
+			"LSC": false,
+			"PPC": true,
+			"TRC": false,
+			"WCC": true
+		},
+		"medicareMA": {
+			"CBP": true,
+			"CCS": false,
+			"CDC": true,
+			"CIS": false,
+			"COA": false,
+			"COL": true,
+			"IMA": false,
+			"LSC": false,
+			"PPC": false,
+			"TRC": true,
+			"WCC": false
+		},
+		"medicareSNPMMP": {
+			"CBP": true,
+			"CCS": false,
+			"CDC": false,
+			"CIS": false,
+			"COA": true,
+			"COL": true,
+			"IMA": false,
+			"LSC": false,
+			"PPC": false,
+			"TRC": true,
+			"WCC": false
+		},
+		"medicaid": {
+			"CBP": true,
+			"CCS": true,
+			"CDC": true,
+			"CIS": true,
+			"COA": false,
+			"COL": false,
+			"IMA": true,
+			"LSC": true,
+			"PPC": true,
+			"TRC": false,
+			"WCC": true
+		}
+	}
+}
